@@ -1,0 +1,26 @@
+.ind_header {
+  color: black;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Sofia);
+
+.newfont {
+
+font-family: "Sofia", sans-serif;
+
+}
+body {
+  
+  width: 100vw;
+  /* background-color:   rgba(12, 105, 103, 0.896); */
+  background-image: url('../images/121.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ind_header:hover {
+  text-decoration: none;
+}
+
+.card-header {
+  background-color: rgb(129, 154, 255);
+}
